@@ -3,3 +3,10 @@
 ################################################################################
 
 /Release
+/InventoryManager/x64/Release/InventoryManager.tlog
+/InventoryManager/x64/Release
+/InventoryManager/x64/Debug
+/InventoryManager/Release
+/InventoryManager/Debug
+/Debug
+/.vs/InventoryManager/v15
